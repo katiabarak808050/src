@@ -1,0 +1,15 @@
+{
+    "foo": ["bar", "baz"],
+    "orange": ["banana", "mango"],
+    "bar": ["qux", "quux"],
+    "monkey": ["cow", "parrot"],
+    "banana": ["mango", "monkey"],
+    "baz": ["baz"],
+    "quux": ["bar", "banana"],
+    "cow": ["orange"],
+    "A": ["B", "C"],
+    "B": ["C"],
+    "C": ["D", "A"],
+    "D": ["E", "baz", "X"],
+    "E": ["A"]
+}
